@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="934cbc54-e516-4f04-8cbe-b431f2bbf44b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QGoQgJ0mumhh0524sTlg3M5hxb" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SingleLinkedList">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_study.Employee" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_study.EmployeeTest" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.SingleLinkedList" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.StackTest" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_study.StaticTest" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleLinkedList" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.EmployeeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934cbc54-e516-4f04-8cbe-b431f2bbf44b" name="Default Changelist" comment="" />
+      <created>1567406278357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567406278357</updated>
+      <workItem from="1567406280360" duration="622000" />
+      <workItem from="1567485716524" duration="1765000" />
+      <workItem from="1567508888943" duration="123000" />
+      <workItem from="1567509025036" duration="2936000" />
+      <workItem from="1567512736944" duration="55000" />
+      <workItem from="1567513040011" duration="117000" />
+      <workItem from="1567682655531" duration="2986000" />
+      <workItem from="1567768240435" duration="6330000" />
+      <workItem from="1568443709618" duration="3539000" />
+      <workItem from="1568517982690" duration="63000" />
+      <workItem from="1569238082219" duration="2482000" />
+      <workItem from="1571536033162" duration="4873000" />
+      <workItem from="1571556453143" duration="1613000" />
+      <workItem from="1571585092122" duration="44000" />
+      <workItem from="1571585291756" duration="18000" />
+      <workItem from="1571662033838" duration="12000" />
+      <workItem from="1571662052884" duration="5085000" />
+      <workItem from="1571731741232" duration="365000" />
+      <workItem from="1571732118402" duration="1524000" />
+      <workItem from="1571831222597" duration="331000" />
+      <workItem from="1571835505124" duration="1920000" />
+      <workItem from="1571991092214" duration="148000" />
+      <workItem from="1571991524890" duration="6341000" />
+      <workItem from="1572053643374" duration="262000" />
+      <workItem from="1572053917199" duration="4452000" />
+      <workItem from="1572085549622" duration="3411000" />
+      <workItem from="1572159363878" duration="6260000" />
+      <workItem from="1572336463532" duration="7904000" />
+      <workItem from="1572422070974" duration="5795000" />
+      <workItem from="1572443055570" duration="59000" />
+      <workItem from="1572575605672" duration="6051000" />
+      <workItem from="1572940713817" duration="706000" />
+      <workItem from="1572946821378" duration="5869000" />
+      <workItem from="1573986737833" duration="71000" />
+      <workItem from="1573988457241" duration="2574000" />
+      <workItem from="1574333277323" duration="4728000" />
+      <workItem from="1574405447770" duration="658000" />
+      <workItem from="1575167068682" duration="612000" />
+      <workItem from="1578299211919" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
